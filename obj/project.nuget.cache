@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1UuNh+58s3l85DwnikjpuK+tkgV1VTsInfGWUoOUALoRJdncaU0BR2ClSy+6ymueLZqnjhoZQ9tF28t0v+h5w==",
+  "success": true,
+  "projectFilePath": "D:\\Backend\\MyFirstApi\\MyFirstApi\\MyFirstApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.0\\microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\swashbuckle.aspnetcore\\9.0.1\\swashbuckle.aspnetcore.9.0.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.1\\swashbuckle.aspnetcore.swagger.9.0.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.1\\swashbuckle.aspnetcore.swaggergen.9.0.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.1\\swashbuckle.aspnetcore.swaggerui.9.0.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

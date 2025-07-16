@@ -1,0 +1,17 @@
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\MyFirstApi.exe
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\MyFirstApi.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\MyFirstApi.deps.json
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\MyFirstApi.runtimeconfig.json
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\MyFirstApi.pdb
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Backend\MyFirstApi\MyFirstApi\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
