@@ -52,7 +52,7 @@ namespace MyFirstApi.Controllers
         public IActionResult Delete(int id)
         {
             _studentRepository.DeleteStudent(id);
-            return Ok("Student updated successfully");
+            return Ok("Student updated successfully shaniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
         }
     }
 }
