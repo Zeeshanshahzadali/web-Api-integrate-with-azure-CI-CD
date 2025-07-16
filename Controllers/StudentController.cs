@@ -36,7 +36,7 @@ namespace MyFirstApi.Controllers
                 Email = studentdto.Email,
             };
             _studentRepository.AddStudent(student);
-            return Ok("Student added successfully");
+            return Ok("Student added successfully shaniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
         }
 
         // PUT api/<StudentController>/5
